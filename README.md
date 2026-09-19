@@ -1,5 +1,7 @@
 # 💫 About Me:
-######<br><br>Hi, @abhay2301<br>I'm interested in Full stack Development, Data Science######<br>Currently I'm learning Advanced Machine Learning techniques AI Integration into Backend System.######<br>I’m looking to collaborate on AI-powered projects, web development using Python and Flask, and data-driven solutions######<br>How to reach me:#####<br>https://www.linkedin.com/in/abhaykumar2301/<br>kumar.abhay030201@gmail.com######<br>Pronouns: He/Him######<br>Fun fact: I love solving puzzles and learning new tech tools in my spare time!
+<br><br>Hi, @abhay2301<br>I'm interested in Full stack Development, Data Science.
+<br>Currently I'm learning Advanced Machine Learning techniques AI Integration into Backend System.
+<br>I’m looking to collaborate on AI-powered projects, web development using Python and Flask, and data-driven solutions.<br>How to reach me:<br>https://www.linkedin.com/in/abhaykumar2301/<br>kumar.abhay030201@gmail.com<br>Pronouns: He/Him<br>Fun fact: I love solving puzzles and learning new tech tools in my spare time!
 
 
 ## 🌐 Socials:
